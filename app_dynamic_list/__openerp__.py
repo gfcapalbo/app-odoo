@@ -1,7 +1,7 @@
 
 {
     'name': 'App Customize Columns of List (Tree) View Dynamic',
-    'version': '10.0.1.6',
+    'version': '9.0.1.6',
     'author': 'Sunpop.cn',
     'category': 'Productivity',
     'website': 'http://www.odooapp.cn',
@@ -27,7 +27,7 @@ This module is ready for Community and Enterprise Edition.
     'test': [
     ],
     'installable': True,
-    'application': True,
+    'application': False,
     'auto_install': False,
     'qweb': ['static/src/xml/listview_button_view.xml'],
 }
